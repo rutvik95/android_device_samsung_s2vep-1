@@ -3,8 +3,8 @@ key 2     DPAD_UP           WAKE_DROPPED
 key 3     DPAD_DOWN         WAKE_DROPPED
 key 4     DPAD_LEFT         WAKE_DROPPED
 key 5     DPAD_RIGHT        WAKE_DROPPED
-key 10    MENU              WAKE_DROPPED
-key 14    BACK              WAKE_DROPPED
+key 10    MENU              VIRTUAL
+key 14    BACK              VIRTUAL
 
 key 33    0
 key 34    1
