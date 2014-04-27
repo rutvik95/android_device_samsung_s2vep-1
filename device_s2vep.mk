@@ -21,8 +21,6 @@ PRODUCT_COPY_FILES += \
 	device/samsung/s2vep/ramdisk/fstab.capri_ss_s2vep:root/fstab.capri_ss_s2vep \
 	device/samsung/s2vep/ramdisk/sbin/automount:root/sbin/automount \
 	device/samsung/s2vep/ramdisk/sbin/busybox:root/sbin/busybox \
-	device/samsung/s2vep/ramdisk/sbin/cbd:root/sbin/cbd \
-	device/samsung/s2vep/ramdisk/sbin/ffu:root/sbin/ffu \
 	device/samsung/s2vep/ramdisk/sbin/sh:root/sbin/sh 
 
 PRODUCT_COPY_FILES += \
